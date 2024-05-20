@@ -11,6 +11,9 @@
 *.userosscache
 *.sln.docstates
 
+# Nuestros ignore específicos
+# seguimos probando git, en este caso usar el pull
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
